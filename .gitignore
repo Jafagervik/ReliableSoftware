@@ -1,3 +1,6 @@
 */*.pml.trail
 */pan.*
 */pan
+
+/assignment1/report/*.aux
+/assignment1/report/*.log
